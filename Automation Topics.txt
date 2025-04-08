@@ -1,0 +1,7 @@
+1 ->Java
+2 ->Selenium
+3 ->Database
+4 ->JMeter
+5 ->Postman
+6 ->Cucumber
+7 ->Rest Assured
